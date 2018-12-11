@@ -19,16 +19,16 @@
 
 - 截图
 
-![](https://github.com/liufx/AnimationDemo/screenshot/home.jpg)
+![](https://github.com/liufx/AnimationDemo/screenshot/home_index.jpg)
 
 - gif
 
-   <img src="/screenshot/anim_frame.gif" width = "240" height = "360" alt="帧动画">
-   <img src="/screenshot/anim_alpha.gif" width = "240" height = "360" alt="透明度动画">
-   <img src="/screenshot/anim_scale.gif" width = "240" height = "360" alt="缩放动画">
-   <img src="/screenshot/anim_tran.gif" width = "240" height = "360" alt="平移动画">
-   <img src="/screenshot/anim_rotate.gif" width = "240" height = "360" alt="旋转动画">
-   <img src="/screenshot/animator_value.gif" width = "240" height = "360"alt="属性动画" >
+   <img src="/screenshot/anim1_frame.gif" width = "240" height = "360" alt="帧动画">
+   <img src="/screenshot/anim2_alpha.gif" width = "240" height = "360" alt="透明度动画">
+   <img src="/screenshot/anim3_scale.gif" width = "240" height = "360" alt="缩放动画">
+   <img src="/screenshot/anim4_tran.gif" width = "240" height = "360" alt="平移动画">
+   <img src="/screenshot/anim5_rotate.gif" width = "240" height = "360" alt="旋转动画">
+   <img src="/screenshot/animator6_value.gif" width = "240" height = "360"alt="属性动画" >
 
 ## 具体实现
 
