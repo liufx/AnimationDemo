@@ -19,7 +19,7 @@
 
 - 截图
 
-![](https://github.com/liufx/AnimationDemo/screenshot/home_index.jpg)
+![](https://github.com/liufx/AnimationDemo/blob/master/screenshot/home_index.jpg)
 
 - gif
 
