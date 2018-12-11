@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="2000"
+    android:fromDegrees="0"
+    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:toDegrees="360">
+    <!--
+      interpolator 指定动画的插值器
+      accelerate_decelerate_interpolator   加速-减速
+      accelerate_interpolator               加速
+      decelerate_interpolator               减速
+
+      fromDegrees 动画起始角度
+      toDegrees   动画结束旋转的角度 可以大于360度
+      负数表示逆时针旋转  正数表示顺时针旋转
+
+      pivotX相对于view的X坐标的开始位置
+      pivotY相对于view的Y坐标的开始位置
+绝对尺寸 100px
+      50% 相对尺寸 相对于自身的50%
+      50%p 相对尺寸 相对于父容器的50%
+      50%为物件的X或Y方向坐标上的中点位置
+     duration  动画播放时间 单位毫秒
+-->
+</rotate>

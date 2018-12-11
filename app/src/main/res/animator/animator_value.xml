@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="1000"
+    android:interpolator="@android:interpolator/overshoot"
+    android:valueFrom="0"
+    android:valueTo="300"
+    android:valueType="intType">
+    <!--
+        valueFrom  起始值
+        valueTo    结束值
+        valueType  值的类型
+        intType整数值、floatType浮点值、colorType颜色值
+        interpolator插值器
+    -->
+</animator>
